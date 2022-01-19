@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Tip Go - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Go** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Mo Zhou**
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
+- launching screen
+- background color
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
